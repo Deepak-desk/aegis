@@ -1,0 +1,16 @@
+# A minimal requirements list for AEGIS (install into venv)
+fastapi
+uvicorn
+requests
+chromadb
+sentence-transformers
+langchain
+langchain-community
+python-dotenv
+supabase
+pydantic
+wikipedia
+arxiv
+tavily-python
+transformers
+torch
