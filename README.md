@@ -109,7 +109,7 @@ Follow the appropriate instructions below to set up AEGIS on your operating syst
 
 ---
 
-### 🍏 macOS Setup
+###  macOS Setup
 
 1.  **Clone & Navigate to Project Root**:
     ```bash
